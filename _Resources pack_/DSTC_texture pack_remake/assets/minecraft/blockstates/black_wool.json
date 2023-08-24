@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/xray/black_wool" },
+            { "model": "block/xray/black_wool_mirrored" },
+            { "model": "block/xray/black_wool", "y": 180 },
+            { "model": "block/xray/black_wool_mirrored", "y": 180 }
+        ]
+    }
+}
