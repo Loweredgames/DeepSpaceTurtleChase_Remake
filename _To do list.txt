@@ -1,0 +1,10 @@
+importante: 
+- tp -256 54 89 Spawn
+- tp -454 40 816 Nave
+
+----------------------------------
+tp -206 81 118 (da eliminare)
+/tp -190 95 132 (sistemare zona)
+/tp -176 87 115 (rimuovere e sistemare area)
+tp -162 94 116 (sistemare area)
+tp -455 43 817 (aggiustare pillastro)
