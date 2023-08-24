@@ -8,3 +8,4 @@ tp -206 81 118 (da eliminare)
 /tp -176 87 115 (rimuovere e sistemare area)
 tp -162 94 116 (sistemare area)
 tp -455 43 817 (aggiustare pillastro)
+aggiungere distruzioni finte con i commandi nel intro
