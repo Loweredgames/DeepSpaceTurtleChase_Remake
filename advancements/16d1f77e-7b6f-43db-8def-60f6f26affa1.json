@@ -1,0 +1,25 @@
+{
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2023-08-24 12:52:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2023-08-24 12:52:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:mountains": "2023-08-24 12:54:50 +0200",
+      "minecraft:desert": "2023-08-24 12:52:50 +0200",
+      "minecraft:beach": "2023-08-24 12:54:24 +0200",
+      "minecraft:river": "2023-08-24 12:54:19 +0200",
+      "minecraft:plains": "2023-08-24 13:00:36 +0200"
+    },
+    "done": false
+  },
+  "DataVersion": 2730
+}
